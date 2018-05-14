@@ -3,7 +3,7 @@ Data Structures Assignment for Splay Implementation in Java
 
 Binary Search Tree code from other Data Structures assignment augmented with splay method.
 
-  Interface: The SPLT will provide these operations:
+  The SPLT will provide these operations:
 
   insert:
     
